@@ -1,0 +1,24 @@
+.card img{
+  height: 130px;
+  width: 130px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+.card{
+  border: 1px solid white;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px black;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+}
+.card h2{
+  font-family: Arial, sans-serif;
+  color: rgb(58, 58, 58);
+}
+.card p{
+  font-family: Arial, sans-serif;
+  color: rgb(108, 108, 108);
+}
